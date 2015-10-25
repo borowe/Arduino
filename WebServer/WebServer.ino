@@ -92,7 +92,7 @@ void loop()
           client.print(" value='90'><input type='submit' value='Servo Stop'/></form>");
         
           //Create webcam feed
-          //client.print("<img name=""FoscamCamera"" src=""http://67.168.78.50:1026/videostream.cgi?user=peon&pwd=noob"" width=""480"" height=""360"" alt=""Live Feed"" style=""background-color: #009999"" />");
+          //client.print("<img name=""FoscamCamera"" src=""http://YOURCAMERAIPADDRESS:PORT/videostream.cgi?user=YOURUSERNAME&pwd=YOURPASSWORD"" width=""480"" height=""360"" alt=""Live Feed"" style=""background-color: #009999"" />");
         
         
           client.println("</body></html>");
