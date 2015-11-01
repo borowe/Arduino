@@ -92,6 +92,7 @@ void loop()
           client.print(" value='90'><input type='submit' value='Servo Stop'/></form>");
         
           //Create webcam feed
+          // More info here:  http://www.themadhermit.net/how-to-embed-video-from-your-foscam-fi8918w-wireless-camera-into-your-web-page/
           //client.print("<img name=""FoscamCamera"" src=""http://YOURCAMERAIPADDRESS:PORT/videostream.cgi?user=YOURUSERNAME&pwd=YOURPASSWORD"" width=""480"" height=""360"" alt=""Live Feed"" style=""background-color: #009999"" />");
         
         
