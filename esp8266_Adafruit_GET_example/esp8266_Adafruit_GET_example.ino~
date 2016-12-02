@@ -20,7 +20,7 @@ const char* ssid     = "<your wifi network name (ssid)>";
 const char* password = "<your wifi password>";
 
 //const char* host = "www.adafruit.com";
-const char* host = "<host ip address or url>";
+const char* host = "52.25.177.115";
 
 void setup() {
   Serial.begin(115200);
