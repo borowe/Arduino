@@ -18,8 +18,8 @@
 #define ECHO 13
 
 // Wifi login credentials
-const char* ssid     = "Rouse House";
-const char* password = "";
+const char* ssid     = "<your wifi network name (ssid)>";
+const char* password = "<your wifi network password>";
 
 // Site to send GET request to (don't use any "http:" or "/"s in the address)
 //const char* host = "www.adafruit.com";
