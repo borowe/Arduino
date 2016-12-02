@@ -16,8 +16,8 @@
 
 
 
-const char* ssid     = "rhonet";
-const char* password = "Trader2014";
+const char* ssid     = "<your wifi network name (ssid)>";
+const char* password = "<your wifi password>";
 
 //const char* host = "www.adafruit.com";
 const char* host = "52.25.177.115";

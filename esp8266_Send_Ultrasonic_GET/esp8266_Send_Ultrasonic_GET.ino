@@ -19,7 +19,7 @@
 
 // Wifi login credentials
 const char* ssid     = "Rouse House";
-const char* password = "Kalispel7";
+const char* password = "";
 
 // Site to send GET request to (don't use any "http:" or "/"s in the address)
 //const char* host = "www.adafruit.com";
